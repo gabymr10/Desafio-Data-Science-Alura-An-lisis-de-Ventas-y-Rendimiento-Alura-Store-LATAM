@@ -1,4 +1,4 @@
-# Desafio-Data-Science-Alura-An-lisis-de-Ventas-y-Rendimiento-Alura-Store-LATAM
+# Desafio Data Science Alura Análisis de Ventas y Rendimiento Alura Store LATAM
 
 📌 Descripción
 
