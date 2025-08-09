@@ -85,7 +85,7 @@ Tras integrar y ponderar todos los indicadores, el análisis concluye que la Tie
 
 1. Clona el repositorio:
 
-   git clone https://github.com/https://gabymr10.github.io/Desafio-Data-Science-Alura-An-lisis-de-Ventas-y-Rendimiento-Alura-Store-LATAM/)
+   git clone https://github.com/gabymr10/Desafio-Data-Science-Alura-An-lisis-de-Ventas-y-Rendimiento-Alura-Store-LATAM.git
    
    cd Proyecto_AluraStore
 
